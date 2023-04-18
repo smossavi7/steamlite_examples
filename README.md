@@ -1,3 +1,6 @@
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:4e92255370cfe1857131990a31985acd54784206/)](https://archive.softwareheritage.org/swh:1:dir:4e92255370cfe1857131990a31985acd54784206;origin=https://github.com/smossavi7/steamlite_examples;visit=swh:1:snp:e68f90c6a11db61463327c093ad126460eaa9d68;anchor=swh:1:rev:980c6722f9f10e01316758596bedfd8b446e21cc)
+
+
 This repo saves code for the How to build dashboard apps with Streamlit Python (quick Tutorial) video for our YouTube channel. Please check out the video for detailed explanations. (https://youtu.be/6Wc8ttX-SBU).
 
 Welcome to How to build dashboard apps with Streamlit Python (quick Tutorial). You'll build an example web app with an avocado prices dataset.
